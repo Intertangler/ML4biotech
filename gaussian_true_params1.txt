@@ -1,0 +1,3 @@
+{'n_samples': 1000, 'mu': 10, 'sigma': 35}
+{'n_samples': 1000, 'mu': 100, 'sigma': 50}
+{'n_samples': 1000, 'mu': 200, 'sigma': 25}
